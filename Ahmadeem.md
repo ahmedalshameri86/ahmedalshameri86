@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmedalshameri86
 - 👀 I’m interested in paragliding
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on anyyhing interesting! 
+- 💞️ I’m looking to collaborate on anything interesting! 
 - 📫 How to reach me by whatsapp +201002575319
 
 <!---
